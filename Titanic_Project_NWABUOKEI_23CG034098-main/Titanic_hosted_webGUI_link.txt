@@ -1,0 +1,6 @@
+Name: NWABUOKEI UGOCHUKWU
+Matric Number: 23CG034098
+Machine Learning Algorithm Used: Random Forest Classifier
+Model Persistence Method Used: Joblib (Compressed)
+Live URL: 
+GitHub Repository Link: https://github.com/Ugo-Joseph/Titanic_Project_NWABUOKEI_23CGO34098-main
